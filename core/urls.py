@@ -24,6 +24,7 @@ path('commend/predict', views.MakeMend, name='mend'),
 path('meet/', views.doctor_ment, name='meet_list'),
 path('meet/save/', views.SaveMent, name='savement'),
 path('doctors/', views.doctor_list, name='dr_list'),
+path('about/', views.about, name='about'),
 
 
 
