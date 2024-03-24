@@ -22,7 +22,7 @@ tzdata==2024.1
 NOTE: Make sure your Anacond has sckit-learn==1.2.2 (To see this, open anaconda prompt then pip list to see the list of packages)
 
 # Quick Way To Run project
-clone the repository, 
+Open CMD/cterminal then clone the repository, 
 # git clone https://github.com/MoTechStore/Machine-Learning-Disease-Prediction-And-Drug-Recommendation.git
 then create Python virtual environment 
 # python -m venv venv 
