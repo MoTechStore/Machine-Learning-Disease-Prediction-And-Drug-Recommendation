@@ -29,7 +29,7 @@ then create Python virtual environment
 then change directory to system 
 # cd system 
 then activate virtual environment 
-# ./vevn/scripts/activate
+# ./venv/scripts/activate
 after that install project dependecies
 # pip install -r requirements.txt
 make migration 
