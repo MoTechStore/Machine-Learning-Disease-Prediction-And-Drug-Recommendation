@@ -7,8 +7,8 @@ Download DBBrowser for SQLITE database
 https://sqlitebrowser.org/dl/
 
 Technologies used:
-asgiref==3.8.1 "\n"
-Django==4.0 \n
+asgiref==3.8.1  
+Django==4.0  
 joblib==1.3.2
 numpy==1.26.4
 pillow==10.2.0
