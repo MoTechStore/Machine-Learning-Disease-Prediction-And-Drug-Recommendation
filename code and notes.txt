@@ -1,0 +1,11 @@
+CONVERT DISEASE NAMES TO NUMBER (Disease Encoding)
+
+data.replace({'prognosis':{'fungal infection':0,'allergy':1,'gerd':2,'chronic cholestasis':3,'drug reaction':4,
+'peptic ulcer diseae':5,'aids':6,'diabetes ':7,'gastroenteritis':8,'bronchial asthma':9,'hypertension ':10,
+'migraine':11,'cervical spondylosis':12,
+'paralysis (brain hemorrhage)':13,'jaundice':14,'malaria':15,'chicken pox':16,'dengue':17,'typhoid':18,'hepatitis a':19,
+'hepatitis b':20,'hepatitis c':21,'hepatitis d':22,'hepatitis e':23,'alcoholic hepatitis':24,'tuberculosis':25,
+'common cold':26,'pneumonia':27,'dimorphic hemmorhoids(piles)':28,'heart attack':29,'varicose veins':30,'hypothyroidism':31,
+'hyperthyroidism':32,'hypoglycemia':33,'osteoarthristis':34,'arthritis':35,
+'(vertigo) paroymsal  positional vertigo':36,'acne':37,'urinary tract infection':38,'psoriasis':39,
+'impetigo':40}},inplace=True)
